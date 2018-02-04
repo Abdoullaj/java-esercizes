@@ -1,8 +1,6 @@
 
 public abstract class RipetizioneAbstr {
-	String piuripetuto;
-	String menoRipetuto;
-	String lPiuRipetuta;
+	int estremo ;
 	
 	protected abstract void setMassimi ();
 	
